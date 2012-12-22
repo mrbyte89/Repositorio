@@ -1,0 +1,53 @@
+/* 
+    Document   : indice
+    Created on : 01-dic-2012, 16:54:23
+    Author     : Raul
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.contenedor{
+    
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        height: 50%;
+}
+
+#logeado{
+    font-size: 11px;
+    margin-left: 65%;
+    
+    
+}
+
+.boton{
+    margin-top: 25px;
+   
+}
+
+tabla{
+   margin-top: 800px; 
+    
+}
+.borrar{
+    float: left;
+    margin-left: 795px;
+    margin-top: 0px;
+}
+
+.editar{
+      float: right;
+      margin-right: 60px;
+      margin-top: 0px;
+}
+
+.editar a, .borrar a{
+          margin-top: -50px;
+           position: absolute;
+
+}
